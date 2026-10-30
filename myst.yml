@@ -1,0 +1,14 @@
+version: 1
+project:
+  title: 量潮兵旗推演意图
+  description: 量潮兵旗推演意图 - 意图对齐信息
+  keywords: [量潮, 兵旗推演, 意图]
+  authors:
+    - name: 量潮科技
+  license: CC-BY-4.0
+  toc:
+    - file: index.md
+site:
+  template: book-theme
+  options:
+    folders: true
